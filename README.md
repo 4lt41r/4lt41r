@@ -1,54 +1,162 @@
-# Hi there 👋 I'm Mujeeb Qadri
 
-🚀 Senior Quality Reviewer | Content Moderator | Automation Enthusiast  
-📍 Remote | Gurugram | Delhi | Open to Tech & E-Commerce roles
+<!-- ===================================================== -->
+<!--                 FUTURISTIC GITHUB README              -->
+<!-- ===================================================== -->
 
----
+<h1 align="center">⚡ Mujeeb Qadri ⚡</h1>
 
-### 👨‍💻 About Me
-
-- 🧠 Experienced in **Content Moderation**, **Quality Assurance**, and **Process Optimization**
-- 🛠️ Built automation tools using **Google Apps Script** to streamline QA assignments & error tracking
-- 📊 Created live trackers and dashboards to monitor performance & audit completion across teams
-- 🤖 Passionate about leveraging **AI & scripting** to boost operational efficiency
-- ✍️ Strong in documentation, training, and developing scalable quality review systems
-
----
-
-### 🔧 Tech & Tools
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white&style=for-the-badge)
-![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?logo=google&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">
+AI Workflow Builder • QA Operations Specialist • Automation Engineer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4lt41r&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4lt41r&theme=tokyonight" width="48%" />
+Building intelligent operational systems powered by automation, analytics, and AI.
 </p>
 
 ---
 
-### 🌱 Currently Learning
-
-- AI integration into operational tools
-- Advanced spreadsheet automation
-- UI/UX enhancement for internal tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Workflow+Builder;Salon+AI+Developer;Automation+Engineer;QA+Operations+Specialist;Local+AI+Experimentation;Building+Scalable+Operational+Systems" />
+</p>
 
 ---
 
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/mujeeb-qadri](https://www.linkedin.com/in/mujeeb-ul-haq-qadri-81796a161/))
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:syedmujeeb.qadri@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4lt41r&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/4lt41r?style=for-the-badge&color=00F7FF" />
+  <img src="https://img.shields.io/github/stars/4lt41r?style=for-the-badge&color=7B68EE" />
+</p>
 
 ---
 
-> “Striving for operational excellence through quality, automation, and teamwork.”
+# ⚡ About Me
 
+```bash
+> whoami
+
+Mujeeb Qadri
+
+QA Specialist turned AI Workflow Builder focused on:
+- Operational Intelligence
+- Automation Systems
+- Dashboard Engineering
+- AI-assisted Workflows
+- Scalable Review Operations
+```
+
+---
+
+# 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 Salon AI
+AI-powered salon operations ecosystem with:
+- Smart automation
+- AI receptionist concepts
+- Analytics systems
+- Attendance & workflow monitoring
+- Intelligent operational tracking
+
+</td>
+
+<td width="50%">
+
+## 💈 Salon CRM
+Modern CRM platform for salons:
+- Appointment systems
+- Staff dashboards
+- Inventory management
+- Billing workflows
+- Customer management
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,github" />
+</p>
+
+---
+
+# 📊 GitHub Intelligence Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4lt41r&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4lt41r&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=4lt41r&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 💼 Experience Journey
+
+## 🏢 Cognizant
+### Quality Analyst / QA Leadership
+
+- Led QA operations and quality monitoring
+- Optimized reviewer performance workflows
+- Managed escalation handling systems
+- Created scalable review processes
+
+---
+
+## 🏢 Concentrix
+### Content Moderator / Operations
+
+- Managed high-volume moderation operations
+- Ensured policy compliance & quality standards
+- Coordinated operational workflows
+
+---
+
+# 🚧 Currently Building
+
+```bash
+[ ACTIVE SYSTEMS ]
+
+✓ Salon AI
+✓ Salon CRM
+✓ Local AI Infrastructure
+✓ AI Workflow Automation
+✓ Operational Dashboards
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mujeeb-ul-haq-qadri-81796a161/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:syedmujeeb.qadri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+"Building scalable AI-driven workflows for modern operational systems."
+</p>
