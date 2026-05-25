@@ -122,9 +122,9 @@ Modern CRM platform for salons:
 ---
 
 ## 🏢 Concentrix
-### Content Moderator / Operations
+### Senior Customer Representative Operations/ Advisor II
 
-- Managed high-volume moderation operations
+- Managed high-volume Inbound operations
 - Ensured policy compliance & quality standards
 - Coordinated operational workflows
 
@@ -136,10 +136,10 @@ Modern CRM platform for salons:
 [ ACTIVE SYSTEMS ]
 
 ✓ Salon AI
+✓ AI Video Editing Workstation
 ✓ Salon CRM
 ✓ Local AI Infrastructure
 ✓ AI Workflow Automation
-✓ Operational Dashboards
 ```
 
 ---
